@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.logo {
+  margin-left: 20%;
+}
+.nav {
+  background-color: #002147;
+  color: aliceblue;
+}
+.social-top {
+  background-color: #fdc800;
+  color: black;
+  margin-right: 10%;
+}
+.top {
+  text-align: right;
+}
+
+.navbar-custom {
+  color: #ffffff;
+  background-color: #002147;
+}
+
+.bg-light {
+  background-color: #002147;
+}
+
+.a-custom {
+  color: #ffffff;
+}
+
+.slide-img {
+  margin-bottom: 0%;
+  padding-bottom: 0%;
+}
+
+.custom-con {
+  padding: 5% 0 5% 15%;
+}
